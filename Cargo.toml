@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Andrew Demonov"]
 
 [dependencies]
+teleborg = "0.1"
