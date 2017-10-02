@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Andrew Demonov"]
 
 [dependencies]
-teleborg = "0.1"
+teleborg = { git = "https://github.com/ademonov/teleborg", branch = "callback_query" }
